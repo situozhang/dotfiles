@@ -105,6 +105,8 @@
 
 [user]
 	useConfigOnly = true
+	email = situozhang@sjtu.edu.cn
+	name = Situo Zhang
 
 [http]
 	cookieFile = ~/.gitcookies
