@@ -94,7 +94,7 @@
 	default = upstream
 
 [credential]
-	helper = "!f() { /root/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/node /tmp/vscode-remote-containers-05e11e20-01e1-4c88-881a-8c1c545abf6a.js git-credential-helper $*; }; f"
+	helper = "!f() { /root/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/node /tmp/vscode-remote-containers-7e0ebc80-2f19-402c-b2b0-a61a845050ac.js git-credential-helper $*; }; f"
 
 [grep]
 	lineNumber = true
@@ -102,12 +102,7 @@
 [advice]
 	detachedHead = false
 	waitingForEditor = false
-
-[user]
-	useConfigOnly = true
-	email = situozhang@sjtu.edu.cn
-	name = Situo Zhang
-
+	
 [http]
 	cookieFile = ~/.gitcookies
 
